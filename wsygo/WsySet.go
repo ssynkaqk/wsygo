@@ -12,7 +12,7 @@ type ConfigMain struct {
 
 // 全局配置
 var Set = ConfigMain{
-	Version: "1.0.1",
+	Version: "1.0.2",
 	Key:  "123456",
 	Token:"123456",
 	File: "/opt/wsyos.ini",
